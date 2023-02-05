@@ -1,0 +1,43 @@
+1,7,4,false,1,false
+1,7 2,7 3,7 4,7 5,7 6,7 7,7 
+2,5,4,false,1,false
+7,13 8,13 9,13 10,13 11,13 
+2,5,4,false,0,false
+1,9 1,10 1,11 1,12 1,13 
+3,3,1,false,1,false
+8,5 9,5 10,5 
+3,3,1,false,1,false
+13,4 14,4 15,4 
+3,3,1,false,0,false
+2,11 2,12 2,13 
+4,1,1,false,1,false
+5,1 
+4,1,1,false,1,false
+15,6 
+4,1,1,false,0,false
+2,15 
+4,1,1,false,1,false
+10,7 
+0,0
+
+1,7,4,false,1,false
+5,1 6,1 7,1 8,1 9,1 10,1 11,1 
+2,5,4,false,0,false
+5,7 5,8 5,9 5,10 5,11 
+2,5,4,false,1,false
+9,8 10,8 11,8 12,8 13,8 
+3,3,1,true,0,false
+4,7 4,8 4,9 
+3,3,1,false,0,false
+1,9 1,10 1,11 
+3,3,1,false,1,false
+7,15 8,15 9,15 
+4,1,1,false,0,false
+10,15 
+4,1,1,false,0,false
+12,10 
+4,1,1,false,0,false
+3,4 
+4,1,1,false,1,false
+2,12 
+0,1
